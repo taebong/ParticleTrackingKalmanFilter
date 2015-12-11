@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Parameters>
+<parameter ID="Common values.Sequence length" value="100"/>
+<parameter ID="Virus scenario.Density Array Virus" value="100.0 500.0 1000.0"/>
+<parameter ID="Microtubule Scenario.Image depth microtubule" value="1"/>
+<parameter ID="Common values.Image height" value="512"/>
+<parameter ID="Common values.Image width" value="512"/>
+<parameter ID="Microtubule Scenario.Enable Microtubule computation" value="true"/>
+<parameter ID="Vesicle scenario.Density Array Vesicle" value="100.0 500.0 1000.0"/>
+<parameter ID="Virus scenario.Enable Virus computation" value="true"/>
+<parameter ID="Virus scenario.Image depth virus" value="10"/>
+<parameter ID="Receptor scenario.SNR Array Receptor" value="1.0 2.0 4.0 7.0"/>
+<parameter ID="Microtubule Scenario.Density Array microtubule" value="60.0 400.0 700.0"/>
+<parameter ID="Receptor scenario.Enable Receptor computation" value="true"/>
+<parameter ID="Vesicle scenario.Enable Vesicle computation" value="true"/>
+<parameter ID="Virus scenario.SNR Array Virus" value="1.0 2.0 4.0 7.0"/>
+<parameter ID="Vesicle scenario.SNR Array Vesicle" value="1.0 2.0 4.0 7.0"/>
+<parameter ID="Export folder"/>
+<parameter ID="Common values.Seed" value="123456"/>
+<parameter ID="Receptor scenario.Density Array Receptor" value="100.0 500.0 1000.0"/>
+<parameter ID="Microtubule Scenario.SNR Array microtubule" value="1.0 2.0 4.0 7.0"/>
+<parameter ID="Receptor scenario.Image depth receptor" value="1"/>
+<parameter ID="Vesicle scenario.Image depth vesicle" value="1"/>
+</Parameters>
