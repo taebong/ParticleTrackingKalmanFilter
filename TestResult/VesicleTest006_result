@@ -1,0 +1,15 @@
+162784.97648538023	 : pairing distance
+0.3291920036041528	 : normalized pairing score (alpha)
+0.24248732247031254	 : full normalized score (beta)
+2587	 : number of reference tracks
+3509	 : number of candidate tracks
+0.5456389452332657	 : Similarity between tracks (Jaccard)
+2152	 : number of paired tracks (out of 2587)
+435	 : number of missed tracks (out of 2587)
+1357	 : number of spurious tracks)
+48534	 : number of reference detections
+51887	 : number of candidate detections
+0.3582059261263699	 : Similarity between detections (Jaccard)
+26475	 : number of paired detections (out of 48534)
+22059	 : number of missed detections (out of 48534)
+25376	 : number of spurious detections
